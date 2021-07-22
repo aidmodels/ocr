@@ -1,1 +1,7 @@
+[[models]]
+name = "mlt"
+url = "https://github.com/aidmodels/ocr/releases/download/v0.1/craft_mlt_25k.pth"
 
+[[models]]
+name = "latin"
+url = "https://github.com/aidmodels/ocr/releases/download/v0.1/latin_g2.pth"
