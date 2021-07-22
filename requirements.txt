@@ -1,0 +1,3 @@
+mlpm
+easyocr
+opencv-python-headless

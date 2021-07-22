@@ -1,0 +1,9 @@
+[package]
+name="ocr"
+vendor="aidmodels"
+tagline="Optical Character Recognition"
+gpu=true
+
+[[solvers]] 
+name="ocrSolver"
+class="ocr/solver/ocrSolver"
